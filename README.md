@@ -28,6 +28,21 @@ Geographic Footprint | 10 Countries · 4 Continents |
  - Provide geographic and demographic workforce distribution intelligence.
  - Enable drill-through, slicer-driven, and tooltip-enhanced interactivity for executive presentations.
 
+# ⚙️ Tools & Technologies
+| Tool | Version | Purpose |
+|------|---------|---------|
+| Microsoft Power BI Desktop | Latest | Dashboard development & publishing |
+| Microsoft Excel (.xlsx) | Office 365 | Source data & star schema delivery |
+| DAX (Data Analysis Expressions) | Built-in | KPI measures & calculated columns |
 
+# 🗄️ Data Sources & Data Model
 
+## Source Dataset
+### The raw dataset was restructured into a star schema with one central fact table and five dimension tables, following Power BI best practices for optimal query performance and clean relationship management.
+| Attribute | Detail |
+|-----------|--------|
+| File | dataset.xlsx |
+| Rows | 500 employees |
+| Columns | 18 raw fields |
+| Format | Microsoft Excel (.xlsx) |
 
