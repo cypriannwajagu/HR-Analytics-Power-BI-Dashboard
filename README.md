@@ -58,4 +58,12 @@ Attendance should not be managed as a singular metric — it is a symptom of eng
 - Study Engineering's practices — its above-target attendance despite being the second-lowest paid department suggests management culture, not compensation, is the primary driver.
 - Set department-level attendance targets with quarterly reviews rather than a single org-wide KPI.
 
-
+### 2. HR Department Compensation Paradox
+#### Observation:
+The HR department — responsible for talent acquisition, compensation design, and employee experience — is simultaneously the lowest paid ($82,763 avg) and the worst attending (79.5%) department in the organization. HR also has the fewest high earners at only 24 employees above $100K, compared to Finance's 43.
+#### Business Recommendation:
+This is a structural risk. An underpaid, disengaged HR team will struggle to attract and retain talent across the rest of the organization. The board should:
+- Conduct an immediate HR compensation benchmarking study against industry data.
+- Target at minimum a 10% salary uplift for HR to bring it closer to the organizational average.
+- Address the irony directly in the next board report — the function that manages compensation equity is itself experiencing it.
+- Introduce HR-specific KPIs on the dashboard (time-to-hire, retention rate, offer acceptance rate) to make the team's value visible.
