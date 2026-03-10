@@ -67,3 +67,26 @@ This is a structural risk. An underpaid, disengaged HR team will struggle to att
 - Target at minimum a 10% salary uplift for HR to bring it closer to the organizational average.
 - Address the irony directly in the next board report — the function that manages compensation equity is itself experiencing it.
 - Introduce HR-specific KPIs on the dashboard (time-to-hire, retention rate, offer acceptance rate) to make the team's value visible.
+
+### 3. Aging Workforce — Succession Planning Is Urgent
+#### Observation:
+The 51–60 age cohort is the single largest group at 128 employees (25.6%) of the workforce. The 21–30 cohort follows at 120 employees. Within the next 5–10 years, more than a quarter of the organization could transition into retirement, taking with them years of institutional knowledge, client relationships, and organizational context.
+#### Business Recommendation:
+- Build a Retirement Risk Dashboard (Power BI page or sub-report) that projects retirement-eligible headcount (age 60+) by department and position for years 1, 3, 5, and 10.
+- Launch a formal Knowledge Transfer Program targeting the 128 employees aged 51–60 — pairing them with Junior Analysts, Engineers, and Specialists for structured mentorship.
+- Prioritize succession plans for Executive and Manager roles held by the 51–60 cohort (22.4% of all roles are Executive — many likely in this age group).
+-Review hiring strategy: the 21–30 cohort at 120 employees is healthy but must be grown faster to offset future attrition.
+
+ ### 4. Strong Global Diversity — Leverage It Strategically
+#### Observation:
+The organization has a near-perfectly balanced global presence across 10 countries and 4 continents, with headcount ranging from just 39 (Brazil) to 56 (Japan). This exceptional geographic diversity is not accidental — it reflects a deliberate global talent strategy and a strong foundation for building a truly inclusive organization.
+#### Business Recommendation:
+- Normalize salaries to Purchasing Power Parity (PPP) by country — an employee in Nigeria earning $88K has dramatically different real compensation than a US employee at $92K.
+- Develop country-specific attendance and engagement benchmarks rather than applying a single global 80% target.
+- Report diversity metrics in the executive summary as a competitive advantage in annual reports and investor communications.
+- Ensure the Filled Map visual on Page 4 is presented in every board meeting as a live testament to geographic workforce strategy.
+
+
+
+
+
